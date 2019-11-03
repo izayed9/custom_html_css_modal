@@ -1,0 +1,26 @@
+
+.modal-wrap{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+.modal-wrap img{
+    width: 80px;
+    height: 80px;
+    margin-right: 10px;
+}
+.modal-body{
+    padding-bottom: 0
+}
+.modal-footer{
+    border-top: none;
+    padding-top: 0;
+}
+.modal-dialog{
+    margin-top: 0;
+}
+.modal-content{
+    border: 0;
+    border-top-right-radius: 0;
+    border-top-left-radius: 0;
+}
